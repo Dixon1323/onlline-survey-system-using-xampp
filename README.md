@@ -121,10 +121,9 @@ Contributions are welcome!
 
 ---
 
-## 📄 License
+## License
 
-*No license file has been added to this repository.*  
-You can include a license of your choice (e.g., MIT, Apache 2.0, GPL) in a `LICENSE` file in the root of this project.
+Distributed under the MIT License. See [LICENSE](https://github.com/Dixon1323/smart-hydrophonics-system/blob/main/LICENSE.md) for more information.
 
 ---
 
